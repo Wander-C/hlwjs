@@ -1,0 +1,7 @@
+{
+    "code-runner.executorMap": {
+        "makefile": "make submit"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "makefile.configureOnOpen": false
+}
